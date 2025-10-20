@@ -95,8 +95,8 @@ O **JIRAYA** foi criado com foco em:
 
 ## 🧾 Créditos
 
-**Desenvolvimento:** Equipe Ninja 🥷  
-**Versão:** 2.5.0  
+**Desenvolvimento:** franciscol99
+**Versão:** 1.07 
 **Última atualização:** Outubro / 2025  
 
 ---
