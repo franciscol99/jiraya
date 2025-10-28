@@ -1,7 +1,12 @@
-{
-  "version": "1.08",
-  "description": "Adicione componentes para facilitar a padronização do uso no dia-a-dia do Jira.",
-  "link": "https://github.com/franciscol99/jiraya",
-  "force": true
+// api/update.js
+export default function handler(req, res) {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  res.status(200).json({
+    version: "1.08",
+    description: "Adicione componentes para facilitar a padronização do uso no dia-a-dia do Jira.",
+    link: "https://github.com/franciscol99/jiraya",
+    force: false
+  });
 }
-
