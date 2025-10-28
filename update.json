@@ -1,6 +1,7 @@
 {
   "version": "1.08",
-  "description": "Adicione componentes para facilitar a padronização do uso no dia-a-dia do Jira.",
+  "description": "Atualização disponível!<br>- Novas templates adicionadas.",
   "link": "https://github.com/franciscol99/jiraya",
-  "force": false
+  "force": true
 }
+
